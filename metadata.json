@@ -1,0 +1,6 @@
+{
+  "name": "What's in My Fridge?",
+  "description": "AI-powered fridge inventory tracker, smart recipe generator, meal planner, and food waste reducer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
